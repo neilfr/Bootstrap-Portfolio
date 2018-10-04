@@ -77,6 +77,35 @@
     padding-right:15px;
 }
 
+.contactButton{
+    background-color: #4aaaa5;
+    color: white;
+    border: none;
+    border-radius: 0px;
+}
 
+.contactInput{
+    border-radius: 0px;
+}
+
+.portfolioCard{
+    height:150px;
+}
+
+.myCard:hover{
+    opacity: 0.5;
+}
+
+.cardLabel{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    position: relative;
+    font-size: 20px;
+    color: white;
+    background-color: #4aaaa5;
+    line-height: 48px;
+    top: -60px;
+    text-align: center;
+
+}
 
 
