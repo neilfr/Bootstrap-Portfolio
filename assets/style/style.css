@@ -33,8 +33,19 @@
     font-size: 24px;
     font-weight: bold;
     padding: 15px;
+    border-left: 2px solid #dddddd;
+    border-right: 2px solid #dddddd;
     border-bottom: 2px solid #dddddd;
     color: #4aaaa5;
+}
+
+.mainCenterContent{
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    border-left: 2px solid #dddddd;
+    border-right: 2px solid #dddddd;
+    border-bottom: 2px solid #dddddd;
+    padding: 15px 15px 30px 15px;
 }
 
 .footerFull{
@@ -62,7 +73,8 @@
 #neilFroggatt{
     float: left;
     height: 100px;
-    width: 100px;
+    width: 115px;
+    padding-right:15px;
 }
 
 
